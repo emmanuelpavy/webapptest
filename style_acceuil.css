@@ -1,0 +1,98 @@
+html{ 
+	margin:0;
+	padding:0;
+	background:url(./img/bg_bois.jpg);
+	background-reapeat:no;
+	background-color: #000000;
+	background-size:100% 100%;
+
+}
+body{
+
+
+}
+
+table{
+margin-left:25%;
+margin-right:25%;
+
+height:50%;
+width:50%;
+position:center ;
+   border-spacing: 0px 80px;
+}
+
+
+#facebook{
+width:100px;
+height:100px;
+
+text-align:center;
+background:url("./img/fb_icon.png") no-repeat;
+}
+
+#google{
+width:100px;
+height:100px;
+
+text-align:center;
+background:url("./img/google_icon.png") no-repeat;
+}
+
+#googleimage{
+width:100px;
+height:100px;
+
+text-align:center;
+background:url("./img/gi_icon.png") no-repeat;
+}
+
+
+#youtube{
+width:100px;
+height:100px;
+
+text-align:center;
+background:url("./img/yt_icon.png") no-repeat;
+}
+
+
+#gmail{
+width:100px;
+height:100px;
+
+text-align:center;
+background:url("./img/gm_icon.png") no-repeat;
+}
+
+#songsterr{
+width:100px;
+height:100px;
+
+text-align:center;
+background:url("./img/ss_icon.png") no-repeat;
+}
+
+#pronote{
+width:100px;
+height:100px;
+
+text-align:center;
+background:url("./img/pn_icon.png") no-repeat;
+}
+
+#perso{
+width:100px;
+height:100px;
+
+text-align:center;
+background:url("./img/a_icon.png") no-repeat;
+}
+
+#instagram{
+width:100px;
+height:100px;
+
+text-align:center;
+background:url("./img/ig_icon.png") no-repeat;
+}
